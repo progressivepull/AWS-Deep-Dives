@@ -48,3 +48,5 @@ A typical web application setup:
 - S3 for static web hosting  
 - DynamoDB as the database  
 - AWS Lambda for implementing business logic
+
+## [Hands-On_Development _in _AWS Context](./Context.md)
