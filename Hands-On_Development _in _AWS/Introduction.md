@@ -49,4 +49,4 @@ A typical web application setup:
 - DynamoDB as the database  
 - AWS Lambda for implementing business logic
 
-## [Hands-On_Development _in _AWS Context](./Context.md)
+## [Hands-On Development in _AWS Context](./Context.md)
