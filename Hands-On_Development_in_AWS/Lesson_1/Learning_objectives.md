@@ -1,5 +1,12 @@
-# Lesson_1 : Course and AWS overview introduction
+<<<<<<< HEAD
+# Learning objectives
 
-Hi welcome to module one course in AWS overview. This module begins with an **overview of this course** followed by an. **Introduction to Amazon Web Services** and concludes with the lesson on **setting up a lab** so that you can follow along.
+Welcome to Lesson 1 course overview. In this lesson, I'll layout the **purpose and areas of focus of this course** as well as **set expectations and define expected outcomes**.
 
+=======
+# Learning objectives
+
+Welcome to Lesson 1 course overview. In this lesson, I'll layout the **purpose and areas of focus of this course** as well as **set expectations and define expected outcomes**.
+
+>>>>>>> 6710833404d7cb56c27fa2e312dbd40403c320d2
 ## [Hands-On Development in AWS Context](./../Context.md)
