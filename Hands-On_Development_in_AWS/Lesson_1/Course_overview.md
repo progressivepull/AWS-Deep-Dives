@@ -1,0 +1,40 @@
+# ☁️ What Is the Cloud?
+* **Definition:** Cloud computing is essentially using “someone else’s computer”—remote servers and services hosted in data centers.
+
+* **Purpose:** Instead of owning and maintaining physical infrastructure, you lease computing resources, shifting from capital expenditure to operational expenditure.
+
+# 🧭 Course Purpose
+* **Focus:** Understanding AWS services from a developer’s perspective—not learning to code, but learning how to deploy and manage applications using AWS.
+
+* **Approach:** Hands-on, learning-by-doing format using the AWS CLI, web console, and a GitHub repository of code examples.
+
+# 🏆 Cloud Providers & Market Share
+* **Major Players:** AWS (33%), Microsoft Azure (21%), Google Cloud (8%), with many others like IBM, Oracle, Alibaba, etc.
+
+* **Source:** Flexera’s 2022 State of the Cloud Report (753 respondents).
+
+# 📊 Cloud Adoption Trends
+* **Enterprise Workloads:** Nearly half run in public cloud.
+
+* **Deployment Models:**
+
+    - 16% Public Only
+
+    - 80% Hybrid
+
+    - 4% Private Only
+
+* **SMB Adoption:** 60% of workloads and data in the cloud by 2023, driven by services like Google Workspace and Microsoft 365.
+
+# 🛠️ AWS Services for Developers
+* **Examples:**
+
+    - **Amazon RDS:** Managed relational databases
+
+    - **Amazon S3:** Static content hosting
+
+    - **DynamoDB:** NoSQL database
+
+    - **AWS Lambda:** Serverless compute
+
+## [Hands-On Development in AWS Context](./../Context.md)
