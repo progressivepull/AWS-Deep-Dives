@@ -207,7 +207,7 @@
 ## Lesson 23: AWS Developer Tools
 	
 * [ Learning objectives ](./Lesson_23/)
-* [ Outlining AWS developer toolsv
+* [ Outlining AWS developer tools ](./Lesson_23/)
 * [ Experimenting with AWS developer tools ](./Lesson_23/)
 * [ Exploring X-Ray ](./Lesson_23/)
 * [ Conclusion ](./Lesson_23/)
