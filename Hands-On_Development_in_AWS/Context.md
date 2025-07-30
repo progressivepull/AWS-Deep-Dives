@@ -11,7 +11,7 @@
 ## Lesson 2: Cloud Services
 	
 * [ 2.1 Learning objectives ](./Lesson_2/2.1_Learning_objectives.md)
-* [ 2.2 Why move to the cloud ](./Lesson_2/)
+* [ 2.2 Why move to the cloud ](./Lesson_2/2.2_Why_move_to_the_cloud.md)
 * [ 2.3 Exploring cloud providers ](./Lesson_2/)
 * [ 2.4 A history of AWS ](./Lesson_2/)
 * [ 2.5 A high-level view of AWS services ](./Lesson_2/)
