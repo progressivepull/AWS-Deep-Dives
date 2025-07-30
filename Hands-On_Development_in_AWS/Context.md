@@ -3,28 +3,28 @@
   
 ## Lesson 1: Course and AWS Overview
 
-* [ 1.1 Module 1: Course and AWS overview introduction](./Lesson_1/Course_and_AWS_overview_introduction.md)
-* [ 1.2 Learning objectives](./Lesson_1/Learning_objectives.md)
-* [ 1.3 Course overview](./Lesson_1/Course_overview.md)
-* [ 1.4 Requisites overview](./Lesson_1/Requisites_overview.md)
+* [ 1.1 Module 1: Course and AWS overview introduction ](./Lesson_1/Course_and_AWS_overview_introduction.md)
+* [ 1.2 Learning objectives ](./Lesson_1/Learning_objectives.md)
+* [ 1.3 Course overview ](./Lesson_1/Course_overview.md)
+* [ 1.4 Requisites overview ](./Lesson_1/Requisites_overview.md)
 
 ## Lesson 2: Cloud Services
 	
-* [ Learning objectives ](./Lesson_2/)
-* [ Why move to the cloud ](./Lesson_2/)
-* [ Exploring cloud providers ](./Lesson_2/)
-* [ A history of AWS ](./Lesson_2/)
-* [ A high-level view of AWS services ](./Lesson_2/)
-* [ Exploring AWS regions ](./Lesson_2/)
+* [ 2.1 Learning objectives ](./Lesson_2/)
+* [ 2.2 Why move to the cloud ](./Lesson_2/)
+* [ 2.3 Exploring cloud providers ](./Lesson_2/)
+* [ 2.4 A history of AWS ](./Lesson_2/)
+* [ 2.5 A high-level view of AWS services ](./Lesson_2/)
+* [ 2.6 Exploring AWS regions ](./Lesson_2/)
 
 ## Lesson 3: Setting Up a Lab
 
-* [ Learning objectives ](./Lesson_3/)
-* [ Setting up a local computer ](./Lesson_3/)
-* [ Creating an AWS trial account ](./Lesson_3/)
-* [ Understanding AWS CLI vs. web GUI ](./Lesson_3/)
-* [ Using the AWS CLI ](./Lesson_3/)
-* [ Reviewing the course’s code repo ](./Lesson_3/)
+* [ 3.1 Learning objectives ](./Lesson_3/)
+* [ 3.2 Setting up a local computer ](./Lesson_3/)
+* [ 3.3 Creating an AWS trial account ](./Lesson_3/)
+* [ 3.4 Understanding AWS CLI vs. web GUI ](./Lesson_3/)
+* [ 3.5 Using the AWS CLI ](./Lesson_3/)
+* [ 3.6 Reviewing the course’s code repo ](./Lesson_3/)
 
 ## Lesson 4: Identity and Access Management (IAM)
 

@@ -1,3 +1,5 @@
+# 1.4 Requisites overview 
+
 # 📚 Course Prerequisites & Expectations
 * **Programming Knowledge:** A general understanding of basic programming concepts like conditionals and loops is helpful, but not mandatory.
 

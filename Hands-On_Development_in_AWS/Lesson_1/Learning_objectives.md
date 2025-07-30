@@ -1,4 +1,4 @@
-# Learning objectives
+# 1.2 Learning objectives
 
 Welcome to Lesson 1 course overview. In this lesson, I'll layout the **purpose and areas of focus of this course** as well as **set expectations and define expected outcomes**.
 

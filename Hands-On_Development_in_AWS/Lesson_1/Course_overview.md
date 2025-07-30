@@ -1,3 +1,5 @@
+# 1.3 Course overview
+
 # ☁️ What Is the Cloud?
 * **Definition:** Cloud computing is essentially using “someone else’s computer”—remote servers and services hosted in data centers.
 
