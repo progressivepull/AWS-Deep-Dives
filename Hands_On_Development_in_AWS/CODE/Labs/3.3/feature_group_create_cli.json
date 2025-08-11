@@ -1,0 +1,42 @@
+{
+    "FeatureGroupName": "HomeSales",
+    "RecordIdentifierFeatureName": "id",
+    "EventTimeFeatureName": "timestamp",
+    "FeatureDefinitions": [
+        {
+            "FeatureName": "id",
+            "FeatureType": "String"
+        },
+        {
+            "FeatureName": "timestamp",
+            "FeatureType": "String"
+        },
+        {
+            "FeatureName": "built",
+            "FeatureType": "Integral"
+        },
+        {
+            "FeatureName": "price",
+            "FeatureType": "Fractional"
+        },
+        {
+            "FeatureName": "distanceToElem",
+            "FeatureType": "Integral"
+        },
+        {
+            "FeatureName": "bedrooms",
+            "FeatureType": "Integral"
+        },
+        {
+            "FeatureName": "bathrooms",
+            "FeatureType": "Integral"
+        }
+    ],
+    "OnlineStoreConfig": {
+        "EnableOnlineStore": true,
+        "StorageType": "Standard"
+    },
+    "ThroughputConfig": {
+        "ThroughputMode": "OnDemand"
+    }
+}
