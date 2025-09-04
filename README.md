@@ -3,8 +3,14 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 
 # 🧰 Popular AWS services include:
 
-* **EC2:** Virtual servers for running applications.
-* **S3:** Scalable storage for files and data.
+* **EC2(Elastic Compute Cloud):** Virtual servers for running applications.
+* **S3(Simple Storage Service):** Scalable storage for files and data.
 * **Lambda:** Run code without managing servers (aka serverless computing).
 * **RDS:** Managed relational databases.
 * **SageMaker:** Build and train machine learning models.
+
+# References
+* [Amazon Web Services Official Website](https://www.youtube.com/@amazonwebservices)
+* [AWS Certification Roadmap for Complete Beginners - Tech With Lucy- YouTube](https://www.youtube.com/watch?v=fgbdtNNXR0U)
+* [AWS: Learn Amazon Web Services (AWS) -  Tiny Technical Tutorials - YouTube](https://www.youtube.com/playlist?list=PLwyXYwu8kL0wg9R_VMeXy0JiK5_c70IrV)
+* [AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam! - freeCodeCamp.org - YouTube](https://www.youtube.com/watch?v=NhDYbskXRgc)
