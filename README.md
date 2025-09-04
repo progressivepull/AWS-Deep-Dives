@@ -11,6 +11,7 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 
 # References
 * [Amazon Web Services Official Website](https://www.youtube.com/@amazonwebservices)
-* [AWS Certification Roadmap for Complete Beginners - Tech With Lucy- YouTube](https://www.youtube.com/watch?v=fgbdtNNXR0U)
-* [AWS: Learn Amazon Web Services (AWS) -  Tiny Technical Tutorials - YouTube](https://www.youtube.com/playlist?list=PLwyXYwu8kL0wg9R_VMeXy0JiK5_c70IrV)
-* [AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam! - freeCodeCamp.org - YouTube](https://www.youtube.com/watch?v=NhDYbskXRgc)
+## YouTube
+* [AWS Certification Roadmap for Complete Beginners - Tech With Lucy](https://www.youtube.com/watch?v=fgbdtNNXR0U)
+* [AWS: Learn Amazon Web Services (AWS) -  Tiny Technical Tutorials ](https://www.youtube.com/playlist?list=PLwyXYwu8kL0wg9R_VMeXy0JiK5_c70IrV)
+* [AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam! - freeCodeCamp.org](https://www.youtube.com/watch?v=NhDYbskXRgc)
