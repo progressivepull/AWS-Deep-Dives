@@ -15,3 +15,11 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * [AWS Certification Roadmap for Complete Beginners - Tech With Lucy](https://www.youtube.com/watch?v=fgbdtNNXR0U)
 * [AWS: Learn Amazon Web Services (AWS) -  Tiny Technical Tutorials ](https://www.youtube.com/playlist?list=PLwyXYwu8kL0wg9R_VMeXy0JiK5_c70IrV)
 * [AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam! - freeCodeCamp.org](https://www.youtube.com/watch?v=NhDYbskXRgc)
+
+## Exam 
+
+* [For Test Takers - Pearsonvue](https://www.pearsonvue.com/us/en/test-takers/onvue-online-proctoring.html)
+* [Online Testing Video - Pearsonvue](https://www.pearsonvue.com/us/en/onvue/online-testing-video.html)
+* [Schedule an Exam - AWS](https://aws.amazon.com/certification/certification-prep/testing/)
+* [Certified AI Practitioner - AWS](https://www.pass4sure.org/Amazon/AWS-Certified-AI-Practitioner.html)
+* [Certified DevOps Engineer Professional DOP C02](https://www.pass4sure.org/Amazon/AWS-Certified-DevOps-Engineer-Professional-DOP-C02.html)
