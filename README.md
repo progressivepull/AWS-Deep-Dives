@@ -6,7 +6,7 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * **EC2(Elastic Compute Cloud):** Virtual servers for running applications.
 * **S3(Simple Storage Service):** Scalable storage for files and data.
 * **Lambda:** Run code without managing servers (aka serverless computing).
-* **RDS:** Managed relational databases.
+* **RDS(Relational Database Service):** Managed relational databases.
 * **SageMaker:** Build and train machine learning models.
 
 # References
