@@ -3,11 +3,12 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 
 # 🧰 Popular AWS services include:
 
-* **EC2(Elastic Compute Cloud):** Virtual servers for running applications.
-* **S3(Simple Storage Service):** Scalable storage for files and data.
-* **Lambda:** Run code without managing servers (aka serverless computing).
-* **RDS(Relational Database Service):** Managed relational databases.
-* **SageMaker:** Build and train machine learning models.
+* **EC2(Elastic Compute Cloud)** : Virtual servers for running applications.
+* **S3(Simple Storage Service)** : Scalable storage for files and data.
+* **Lambda** : Run code without managing servers (aka serverless computing).
+* **RDS(Relational Database Service)** : Managed relational databases.
+* **SageMaker** : Build and train machine learning models.
+*  **Cognito** : Amazon Cognito is a powerful identity management service from AWS that helps you add user authentication, authorization, and user management to your web and mobile apps.
 
 # References
 * [Amazon Web Services Official Website](https://www.youtube.com/@amazonwebservices)
