@@ -37,4 +37,5 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * [aws iam overview - it’s surprisingly simple - users vs roles](https://www.youtube.com/watch?v=VclOgMtBXN4)
 ## 6.Lesson_5_Virtual_Private_Cloud(VPC)
 * [Amazon/AWS VPC (Virtual Private Cloud) Basics | VPC Tutorial | AWS for Beginners](https://www.youtube.com/watch?v=7_NNlnH7sAg)
+* [Classless Inter-Domain Routing (CIDR)- Calculator](https://cidr.xyz/)
 * [AWS VPC & Subnets For Beginners](https://www.youtube.com/watch?v=TUTqYEZZUdc)
