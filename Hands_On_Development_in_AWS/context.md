@@ -1,8 +1,8 @@
-# 1._Introduction
+# 1. Introduction
 
 * [ 1.1 Hands-on development in_AWS Introduction](./LESSON_1/1.1_Hands-on_development_in_AWS_Introduction.md)
  
-# 2._Lesson_1_Course_and_AWS_Overview
+# 2. Lesson_1 Course and AWS Overview
  
 * [ 2.1 Module 1 Course and AWS overview introduction ]( ./LESSON_2/2.1_Module_1_Course_and_AWS_overview_introduction.md )
  
@@ -12,7 +12,7 @@
 
 * [ 2.4_Requisites_overview ]( ./LESSON_2/2.4_Requisites_overview.md)
  
-# 3._Lesson_2_Cloud_Services
+# 3. Lesson 2 Cloud Services
  
 * [ 3.1 Learning objectives ]( ./LESSON_3/3.1_Learning_objectives.md )
  
@@ -26,7 +26,7 @@
 
 * [ 3.6_Exploring_AWS_regions ]( ./LESSON_3/3.6_Exploring_AWS_regions.md )
  
-# 4._Lesson_3_Setting_Up_a_Lab
+# 4. Lesson 3 Setting Up a Lab
  
 * [ 4.1 Learning objectives ]( ./LESSON_4/4.1_Learning_objectives.md )
  
@@ -40,7 +40,7 @@
 
 * [ 4.6_Reviewing_the_course’s_code_repo ]( ./LESSON_4/4.6_Reviewing_the_course’s_code_repo.md )
  
-# 5._Lesson_4_Identity_and_Access_Management_(IAM)
+# 5. Lesson 4 Identity and Access Management (IAM)
  
 * [ 5.1 Module 2 AWS foundational services introduction ]( ./LESSON_5/5.1_Module_2_AWS_foundational_services_introduction.md )
  
@@ -60,7 +60,7 @@
 
 * [ 5.8_Creating_a_Cognito_user_pool ]( ./LESSON_5/5.8_Creating_a_Cognito_user_pool.md )
  
-# 6._Lesson_5_Virtual_Private_Cloud_(VPC)
+# 6. Lesson 5 Virtual Private Cloud (VPC)
  
 * [ 6.1 Learning objectives ]( ./LESSON_6/6.1_Learning_objectives.md )
  
@@ -72,7 +72,7 @@
 
 * [ 6.5_Creating_a_VPC ]( ./LESSON_6/6.5_Creating_a_VPC.md )
  
-# 7._Lesson_6_Elastic_Compute_Cloud_(EC2)
+# 7. Lesson 6 Elastic Compute Cloud (EC2)
  
 * [ 7.1 Learning objectives ]( ./LESSON_7/7.1_Learning_objectives.md )
  
@@ -88,7 +88,7 @@
 
 * [ 7.7_Exploring_storage ]( ./LESSON_7/7.7_Exploring_storage.md )
  
-# 8._Lesson_7_Databases_(RDS_and_EC2)
+# 8. Lesson 7 Databases (RDS_and_EC2)
  
 * [ 8.1 Module 3 Database and storage services introduction ]( ./LESSON_8/8.1_Module_3_Database_and_storage_services_introduction.md )
  
@@ -106,7 +106,7 @@
 
 * [ 8.8_Using_RDS_best_practices ]( ./LESSON_8/8.8_Using_RDS_best_practices.md )
  
-# 9._Lesson_8_DynamoDB_(NoSQL)
+# 9. Lesson 8 DynamoDB (NoSQL)
  
 * [ 9.1 Learning objectives ]( ./LESSON_9/9.1_Learning_objectives.md )
  
@@ -122,7 +122,7 @@
 
 * [ 9.7_Using_DynamoDB_best_practices ]( ./LESSON_9/9.7_Using_DynamoDB_best_practices.md )
  
-# 10._Lesson_9_Simple_Storage_Service_(S3)
+# 10. Lesson 9 Simple Storage Service (S3)
  
 * [ 10.1 Learning objectives ]( ./LESSON_10/10.1_Learning_objectives.md )
  
@@ -142,7 +142,7 @@
  
 * [ 10.9 Using S3 best practices ]( ./LESSON_10/10.9_Using_S3_best_practices.md )
  
-# 11._Lesson_10_Route_53_DNS
+# 11. Lesson 10 Route 53 DNS
  
 * [ 11.1 Learning objectives ]( ./LESSON_11/11.1_Learning_objectives.md )
  
@@ -156,7 +156,7 @@
 
 * [ 11.6_Using_Route_53_best_practices ]( ./LESSON_11/11.6_Using_Route_53_best_practices.md )
  
-# 12._Lesson_11_Simple_Queue_Service_(SQS)
+# 12. Lesson 11 Simple Queue Service (SQS)
  
 * [ 12.1 Module 4 Messaging services introduction ]( ./LESSON_12/12.1_Module_4_Messaging_services_introduction.md )
  
@@ -174,7 +174,7 @@
 
 * [ 12.8_Using_SQS_best_practices ]( ./LESSON_12/12.8_Using_SQS_best_practices.md )
  
-# 13._Lesson_12_Simple_Notification_Service_(SNS)
+# 13. Lesson 12_Simple_Notification_Service_(SNS)
  
 * [ 13.1 Learning objectives ]( ./LESSON_13/13.1_Learning_objectives.md )
  
@@ -190,7 +190,7 @@
 
 * [ 13.7_Using_SNS_best_practices ]( ./LESSON_13/13.7_Using_SNS_best_practices.md )
  
-# 14._Lesson_13_Simple_Email_Service_(SES)
+# 14. Lesson 13 Simple_Email Service (SES)
  
 * [ 14.1 Learning objectives ]( ./LESSON_14/14.1_Learning_objectives.md )
  
@@ -202,7 +202,7 @@
 
 * [ 14.5_Using_SES_best_practices ]( ./LESSON_14/14.5_Using_SES_best_practices.md )
  
-# 15._Lesson_14_Lambda_–_Serverless_Compute
+# 15. Lesson 14 Lambda – Serverless_Compute
  
 * [ 15.1 Module 5 Execution services introduction ]( ./LESSON_15/15.1_Module_5_Execution_services_introduction.md )
  
@@ -220,7 +220,7 @@
 
 * [ 15.8_Using_Lambda_best_practices ]( ./LESSON_15/15.8_Using_Lambda_best_practices.md )
  
-# 16._Lesson_15_Elastic_Beanstalk
+# 16. Lesson 15 Elastic Beanstalk
  
 * [ 16.1 Learning objectives ]( ./LESSON_16/16.1_Learning_objectives.md )
  
@@ -234,7 +234,7 @@
 
 * [ 16.6_Using_Elastic_Beanstalk_best_practices ]( ./LESSON_16/16.6_Using_Elastic_Beanstalk_best_practices.md )
  
-# 17._Lesson_16_Kinesis
+# 17. Lesson 16 Kinesis
  
 * [ 17.1 Learning objectives ]( ./LESSON_17/17.1_Learning_objectives.md )
  
@@ -246,7 +246,7 @@
 
 * [ 17.5_Using_Kinesis_best_practices ]( ./LESSON_17/17.5_Using_Kinesis_best_practices.md )
  
-# 18._Lesson_17_API_Gateway
+# 18. Lesson 17 API Gateway
  
 * [ 18.1 Learning objectives ]( ./LESSON_18/18.1_Learning_objectives.md )
  
@@ -262,7 +262,7 @@
 
 * [ 18.7_Using_API_Gateway_best_practices ]( ./LESSON_18/18.7_Using_API_Gateway_best_practices.md )
  
-# 19._Lesson_18_AWS_API
+# 19. Lesson 18 AWS API
  
 * [ 19.1 Module 6 Developing in AWS introduction ]( ./LESSON_19/19.1_Module_6_Developing_in_AWS_introduction.md )
  
@@ -274,7 +274,7 @@
 
 * [ 19.5_3m_video ]( ./LESSON_19/19.5_3m_video.md )
  
-# 20._Lesson_19_AWS_SDK
+# 20. Lesson 19 AWS SDK
  
 * [ 20.1 Learning objectives ]( ./LESSON_20/20.1_Learning_objectives.md )
  
@@ -286,7 +286,7 @@
 
 * [ 20.5_Using_the_Python_SD ]( ./LESSON_20/20.5_Using_the_Python_SDK.md )
  
-# 21._Lesson_20_CloudFormation
+# 21. Lesson 20 CloudFormation
  
 * [ 21.1 Learning objectives ]( ./LESSON_21/21.1_Learning_objectives.md )
  
@@ -296,7 +296,7 @@
 
 * [ 21.4_Using_CloudFormation_best_practices ]( ./LESSON_21/21.4_Using_CloudFormation_best_practices.md )
  
-# 22._Lesson_21_CloudWatch
+# 22. Lesson 21 CloudWatch
  
 * [ 22.1 Learning objectives ]( ./LESSON_22/22.1_Learning_objectives.md )
  
@@ -310,7 +310,7 @@
 
 * [ 22.6_Using_EventBridge ]( ./LESSON_22/22.6_Using_EventBridge.md )
  
-# 23._Lesson_22_Elastic_Container_Service_(ECS)
+# 23. Lesson 22 Elastic Container Service (ECS)
  
 * [ 23.1 Learning objectives ]( ./LESSON_23/23.1_Learning_objectives.md )
  
@@ -322,7 +322,7 @@
   
 * [ 23.5_Using_ECS_best_practices ]( ./LESSON_23/23.5_Using_ECS_best_practices.md )
  
-# 24._Lesson_23_AWS_Developer_Tools
+# 24. Lesson 23 AWS Developer Tools
  
 * [ 24.1 Learning objectives ]( ./LESSON_24/24.1_Learning_objectives.md )
  
@@ -332,6 +332,6 @@
 
 * [ 24.4_Exploring_X-Ray ]( ./LESSON_24/24.4_Exploring_X-Ray.md )
  
-# 25._Conclusion
+# 25. Conclusion
  
 * [ 25.1_Hands-on_development_in_AWS_Summary ]( ./LESSON_25/25.1_Hands-on_development_in_AWS_Summary.md )
