@@ -85,6 +85,8 @@
 * [ 7.5 Understanding elastic IPs ]( ./LESSON_7/7.5_Understanding_elastic_IPs.md )
  
 * [ 7.6 Using load balancers ]( ./LESSON_7/7.6_Using_load_balancers.md )
+
+* [ 7.7_Exploring_storage ]( ./LESSON_7/7.7_Exploring_storage.md )
  
 # 8._Lesson_7_Databases_(RDS_and_EC2)
  
@@ -101,6 +103,8 @@
 * [ 8.6 Scaling RDS ]( ./LESSON_8/8.6_Scaling_RDS.md )
  
 * [ 8.7 Exploring database on EC2 ]( ./LESSON_8/8.7_Exploring_database_on_EC2.md )
+
+* [ 8.8_Using_RDS_best_practices ]( ./LESSON_8/8.8_Using_RDS_best_practices.md )
  
 # 9._Lesson_8_DynamoDB_(NoSQL)
  
@@ -115,6 +119,8 @@
 * [ 9.5 Scaling and replication ]( ./LESSON_9/9.5_Scaling_and_replication.md )
  
 * [ 9.6 Understanding streams and triggers ]( ./LESSON_9/9.6_Understanding_streams_and_triggers.md )
+
+* [ 9.7_Using_DynamoDB_best_practices ]( ./LESSON_9/9.7_Using_DynamoDB_best_practices.md )
  
 # 10._Lesson_9_Simple_Storage_Service_(S3)
  
@@ -147,6 +153,8 @@
 * [ 11.4 Using zone aliases ]( ./LESSON_11/11.4_Using_zone_aliases.md )
  
 * [ 11.5 Configuring traffic flow policies ]( ./LESSON_11/11.5_Configuring_traffic_flow_policies.md )
+
+* [ 11.6_Using_Route_53_best_practices ]( ./LESSON_11/11.6_Using_Route_53_best_practices.md )
  
 # 12._Lesson_11_Simple_Queue_Service_(SQS)
  
@@ -163,6 +171,8 @@
 * [ 12.6 Interacting with an SQS queue ]( ./LESSON_12/12.6_Interacting_with_an_SQS_queue.md )
  
 * [ 12.7 Using message encryption ]( ./LESSON_12/12.7_Using_message_encryption.md )
+
+* [ 12.8_Using_SQS_best_practices ]( ./LESSON_12/12.8_Using_SQS_best_practices.md )
  
 # 13._Lesson_12_Simple_Notification_Service_(SNS)
  
@@ -177,6 +187,8 @@
 * [ 13.5 Using SNS platform applications ]( ./LESSON_13/13.5_Using_SNS_platform_applications.md )
  
 * [ 13.6 Emailing and texting using SNS ]( ./LESSON_13/13.6_Emailing_and_texting_using_SNS.md )
+
+* [ 13.7_Using_SNS_best_practices ]( ./LESSON_13/13.7_Using_SNS_best_practices.md )
  
 # 14._Lesson_13_Simple_Email_Service_(SES)
  
@@ -187,6 +199,8 @@
 * [ 14.3 Using the SES simulator ]( ./LESSON_14/14.3_Using_the_SES_simulator.md )
  
 * [ 14.4 Using SES templates ]( ./LESSON_14/14.4_Using_SES_templates.md )
+
+* [ 14.5_Using_SES_best_practices ]( ./LESSON_14/14.5_Using_SES_best_practices.md )
  
 # 15._Lesson_14_Lambda_–_Serverless_Compute
  
@@ -203,6 +217,8 @@
 * [ 15.6 Using Lambda functions ]( ./LESSON_15/15.6_Using_Lambda_functions.md )
  
 * [ 15.7 Deploying a Lambda function ]( ./LESSON_15/15.7_Deploying_a_Lambda_function.md )
+
+* [ 15.8_Using_Lambda_best_practices ]( ./LESSON_15/15.8_Using_Lambda_best_practices.md )
  
 # 16._Lesson_15_Elastic_Beanstalk
  
@@ -215,6 +231,8 @@
 * [ 16.4 Interacting with databases ]( ./LESSON_16/16.4_Interacting_with_databases.md )
  
 * [ 16.5 Updating the platform ]( ./LESSON_16/16.5_Updating_the_platform.md )
+
+* [ 16.6_Using_Elastic_Beanstalk_best_practices ]( ./LESSON_16/16.6_Using_Elastic_Beanstalk_best_practices.md )
  
 # 17._Lesson_16_Kinesis
  
@@ -225,6 +243,8 @@
 * [ 17.3 Exploring streams ]( ./LESSON_17/17.3_Exploring_streams.md )
  
 * [ 17.4 Using Firehose ]( ./LESSON_17/17.4_Using_Firehose.md )
+
+* [ 17.5_Using_Kinesis_best_practices ]( ./LESSON_17/17.5_Using_Kinesis_best_practices.md )
  
 # 18._Lesson_17_API_Gateway
  
