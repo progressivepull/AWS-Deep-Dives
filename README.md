@@ -11,7 +11,7 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 *  **Cognito** : Amazon Cognito is a powerful identity management service from AWS that helps you add user authentication, authorization, and user management to your web and mobile apps.
 
 # Content
-* [Hands_On_Development_in_AWS](./Hands_On_Development_in_AWS/Content.md)
+* [Hands_On_Development_in_AWS](./Hands_On_Development_in_AWS/context.md)
 
 # References
 * [Amazon Web Services Official Website](https://www.youtube.com/@amazonwebservices)
