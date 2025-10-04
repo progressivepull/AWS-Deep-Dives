@@ -259,6 +259,8 @@
 * [ 18.5 Integrating using HTTP ]( ./LESSON_18/18.5_Integrating_using_HTTP.md )
  
 * [ 18.6 Securing an API Gateway ]( ./LESSON_18/18.6_Securing_an_API_Gateway.md )
+
+* [ 18.7_Using_API_Gateway_best_practices ]( ./LESSON_18/18.7_Using_API_Gateway_best_practices.md )
  
 # 19._Lesson_18_AWS_API
  
@@ -269,6 +271,8 @@
 * [ 19.3 An AWS API overview ]( ./LESSON_19/19.3_An_AWS_API_overview.md )
  
 * [ 19.4 Using the AWS API ]( ./LESSON_19/19.4_Using_the_AWS_API.md )
+
+* [ 19.5_3m_video ]( ./LESSON_19/19.5_3m_video.md )
  
 # 20._Lesson_19_AWS_SDK
  
@@ -279,6 +283,8 @@
 * [ 20.3 Finding documentation ]( ./LESSON_20/20.3_Finding_documentation.md )
  
 * [ 20.4 Using the Node.js SDK ]( ./LESSON_20/20.4_Using_the_Node.js_SDK.md )
+
+* [ 20.5_Using_the_Python_SD ]( ./LESSON_20/20.5_Using_the_Python_SDK.md )
  
 # 21._Lesson_20_CloudFormation
  
@@ -287,6 +293,8 @@
 * [ 21.2 Understanding CloudFormation ]( ./LESSON_21/21.2_Understanding_CloudFormation.md )
  
 * [ 21.3 Using templates ]( ./LESSON_21/21.3_Using_templates.md )
+
+* [ 21.4_Using_CloudFormation_best_practices ]( ./LESSON_21/21.4_Using_CloudFormation_best_practices.md )
  
 # 22._Lesson_21_CloudWatch
  
@@ -299,6 +307,8 @@
 * [ 22.4 Understanding alarms ]( ./LESSON_22/22.4_Understanding_alarms.md )
  
 * [ 22.5 Using insights ]( ./LESSON_22/22.5_Using_insights.md )
+
+* [ 22.6_Using_EventBridge ]( ./LESSON_22/22.6_Using_EventBridge.md )
  
 # 23._Lesson_22_Elastic_Container_Service_(ECS)
  
@@ -309,6 +319,8 @@
 * [ 23.3 Exploring the Elastic Container Registry ]( ./LESSON_23/23.3_Exploring_the_Elastic_Container_Registry.md )
  
 * [ 23.4 Using clusters ]( ./LESSON_23/23.4_Using_clusters.md )
+  
+* [ 23.5_Using_ECS_best_practices ]( ./LESSON_23/23.5_Using_ECS_best_practices.md )
  
 # 24._Lesson_23_AWS_Developer_Tools
  
@@ -317,6 +329,9 @@
 * [ 24.2 Outlining AWS developer tools ]( ./LESSON_24/24.2_Outlining_AWS_developer_tools.md )
  
 * [ 24.3 Experimenting with AWS developer tools ]( ./LESSON_24/24.3_Experimenting_with_AWS_developer_tools.md )
+
+* [ 24.4_Exploring_X-Ray ]( ./LESSON_24/24.4_Exploring_X-Ray.md )
  
 # 25._Conclusion
  
+* [ 25.1_Hands-on_development_in_AWS_Summary ]( ./LESSON_25/25.1_Hands-on_development_in_AWS_Summary.md )
