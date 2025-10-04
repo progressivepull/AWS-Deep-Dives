@@ -25,3 +25,10 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * [Schedule an Exam - AWS](https://aws.amazon.com/certification/certification-prep/testing/)
 * [Certified AI Practitioner - AWS](https://www.pass4sure.org/Amazon/AWS-Certified-AI-Practitioner.html)
 * [Certified DevOps Engineer Professional DOP C02](https://www.pass4sure.org/Amazon/AWS-Certified-DevOps-Engineer-Professional-DOP-C02.html)
+
+  # 5.Lesson_4_Identity_and_Access_Management(IAM)
+  * [UPDATED - AWS Identity and Access Management (IAM) Basics | AWS Tutorials For Beginners](https://www.youtube.com/watch?v=hAk-7ImN6iM)
+  * [AWS Assume IAM Role - Step by Step tutorial (Part-3)](https://www.youtube.com/watch?v=MkiWa31iV6U)
+  * [What is AWS IAM Identity Center? Explained for Beginners (the theory)](https://www.youtube.com/watch?v=gpquYmcpZpo&list=PLwyXYwu8kL0wg9R_VMeXy0JiK5_c70IrV&index=61)
+  * [How to Set Up AWS IAM Identity Center and AWS Organizations | AWS Tutorial for Beginners](https://www.youtube.com/watch?v=_KhrGFV_Npw&list=PLwyXYwu8kL0wg9R_VMeXy0JiK5_c70IrV&index=62)
+  * [aws iam overview - it’s surprisingly simple - users vs roles](https://www.youtube.com/watch?v=VclOgMtBXN4)
