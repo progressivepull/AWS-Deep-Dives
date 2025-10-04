@@ -9,6 +9,8 @@
 * [ 2.2 Learning objectives ]( ./LESSON_2/2.2_Learning_objectives.md )
  
 * [ 2.3 Course overview ]( ./LESSON_2/2.3_Course_overview.md )
+
+* [ 2.4_Requisites_overview ]( ./LESSON_2/2.4_Requisites_overview.md)
  
 # 3._Lesson_2_Cloud_Services
  
@@ -21,6 +23,8 @@
 * [ 3.4 A history of AWS ]( ./LESSON_3/3.4_A_history_of_AWS.md )
  
 * [ 3.5 A high-level view of AWS services ]( ./LESSON_3/3.5_A_high-level_view_of_AWS_services.md )
+
+* [ 3.6_Exploring_AWS_regions ]( ./LESSON_3/3.6_Exploring_AWS_regions.md )
  
 # 4._Lesson_3_Setting_Up_a_Lab
  
@@ -33,6 +37,8 @@
 * [ 4.4 Understanding AWS CLI vs. web GUI ]( ./LESSON_4/4.4_Understanding_AWS_CLI_vs._web_GUI.md )
  
 * [ 4.5 Using the AWS CLI ]( ./LESSON_4/4.5_Using_the_AWS_CLI.md )
+
+* [ 4.6_Reviewing_the_course’s_code_repo ]( ./LESSON_4/4.6_Reviewing_the_course’s_code_repo.md )
  
 # 5._Lesson_4_Identity_and_Access_Management_(IAM)
  
@@ -47,8 +53,12 @@
 * [ 5.5 Exploring users and groups ]( ./LESSON_5/5.5_Exploring_users_and_groups.md )
  
 * [ 5.6 Exploring roles ]( ./LESSON_5/5.6_Exploring_roles.md )
+
+* [ 5.6 Exploring roles ]( ./LESSON_5/5.6_Exploring_roles.md )
  
 * [ 5.7 Using IAM multi-factor authentication (MFA) ]( ./LESSON_5/5.7_Using_IAM_multi-factor_authentication_(MFA).md )
+
+* [ 5.8_Creating_a_Cognito_user_pool ]( ./LESSON_5/5.8_Creating_a_Cognito_user_pool.md )
  
 # 6._Lesson_5_Virtual_Private_Cloud_(VPC)
  
@@ -59,6 +69,8 @@
 * [ 6.3 Exploring networking and security ]( ./LESSON_6/6.3_Exploring_networking_and_security.md )
  
 * [ 6.4 Understanding default VPC ]( ./LESSON_6/6.4_Understanding_default_VPC.md )
+
+* [ 6.5_Creating_a_VPC ]( ./LESSON_6/6.5_Creating_a_VPC.md )
  
 # 7._Lesson_6_Elastic_Compute_Cloud_(EC2)
  
