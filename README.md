@@ -53,3 +53,7 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * [Amazon/AWS VPC (Virtual Private Cloud) Basics | VPC Tutorial | AWS for Beginners](https://www.youtube.com/watch?v=7_NNlnH7sAg)
 * [Classless Inter-Domain Routing (CIDR)- Calculator](https://cidr.xyz/)
 * [AWS VPC & Subnets For Beginners](https://www.youtube.com/watch?v=TUTqYEZZUdc)
+## 7. Lesson 6 Elastic Compute Cloud (EC2)
+* [Step-by-Step Guide: Setting Up AWS EC2 Instance for Windows Server 2025| AWS EC2 Windows Server 2025](https://www.youtube.com/watch?v=4Vjhby3-gGI)
+* [How to Create a Virtual Machine on AWS EC2 | Launching Your First AWS EC2 Instance (Free Tier)(2025)](https://www.youtube.com/watch?v=NfnVflt1Jxw)
+* [UPDATED - Amazon/AWS EC2 Basics | Create an EC2 Instance | AWS Tutorials for Beginners](https://www.youtube.com/watch?v=YH_DVenJHII&t=139s)
