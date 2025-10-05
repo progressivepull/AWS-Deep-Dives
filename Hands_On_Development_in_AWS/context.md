@@ -53,8 +53,6 @@
 * [ 5.5 Exploring users and groups ]( ./LESSON_5/5.5_Exploring_users_and_groups.md )
  
 * [ 5.6 Exploring roles ]( ./LESSON_5/5.6_Exploring_roles.md )
-
-* [ 5.6 Exploring roles ]( ./LESSON_5/5.6_Exploring_roles.md )
  
 * [ 5.7 Using IAM multi-factor authentication (MFA) ]( ./LESSON_5/5.7_Using_IAM_multi-factor_authentication_(MFA).md )
 
