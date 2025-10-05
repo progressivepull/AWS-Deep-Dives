@@ -10,6 +10,18 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * **SageMaker** : Build and train machine learning models.
 *  **Cognito** : Amazon Cognito is a powerful identity management service from AWS that helps you add user authentication, authorization, and user management to your web and mobile apps.
 
+# Terms
+
+* An **AWS Region** is a **geographically isolated area** where Amazon Web Services (AWS) hosts its infrastructure to provide cloud services. Each Region consists of multiple **Availability Zones (AZs)**, which are distinct data centers engineered to be isolated from failures in other AZs.
+  
+* An **Access Control List (ACL)** is a set of rules applied to router or switch interfaces that permit or deny traffic based on criteria such as:
+  -  Source IP address
+  -  Destination IP address
+  -  Protocol (TCP, UDP, ICMP)
+  -  Port numbers
+
+* **Network Access Control (NAC)** is a security solution that **controls access to a network** by enforcing policies on devices as they attempt to connect. It ensures that only **authorized and compliant devices** (e.g., laptops, smartphones, IoT devices) can access network resources.
+
 # Content
 * [Hands_On_Development_in_AWS](./Hands_On_Development_in_AWS/context.md)
 
