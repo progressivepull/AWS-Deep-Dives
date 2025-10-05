@@ -1,7 +1,7 @@
 # AWS-Deep-Dives
 AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, a massive digital toolbox that lets individuals and companies build, run, and scale applications without needing to own physical servers.
 
-# 🧰 Popular AWS services include:
+# 🧰 AWS services include:
 
 * **EC2(Elastic Compute Cloud)** : Virtual servers for running applications.
 * **S3(Simple Storage Service)** : Scalable storage for files and data.
@@ -9,6 +9,7 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * **RDS(Relational Database Service)** : Managed relational databases.
 * **SageMaker** : Build and train machine learning models.
 *  **Cognito** : Amazon Cognito is a powerful identity management service from AWS that helps you add user authentication, authorization, and user management to your web and mobile apps.
+*  **Elastic Block Store (ELS)** provides persistent block-level storage for EC2 instances.
 
 # Terms
 ## 5. Lesson 4 Identity and Access Management (IAM)
