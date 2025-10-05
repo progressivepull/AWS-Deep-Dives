@@ -24,7 +24,7 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * **Network Access Control (NAC)** is a security solution that **controls access to a network** by enforcing policies on devices as they attempt to connect. It ensures that only **authorized and compliant devices** (e.g., laptops, smartphones, IoT devices) can access network resources.
 
 ## 7. Lesson 6 Elastic Compute Cloud (EC2)
-* An *Amazon Machine Image (AMI)* is a critical component in AWS that provides the information required to launch an EC2 instance—a virtual server in the cloud. It is an image that provides the software that is required to set up and boot an Amazon EC2 instance.
+* An **Amazon Machine Image (AMI)** is a critical component in AWS that provides the information required to launch an EC2 instance—a virtual server in the cloud. It is an image that provides the software that is required to set up and boot an Amazon EC2 instance.
 
 # Content
 * [Hands_On_Development_in_AWS](./Hands_On_Development_in_AWS/context.md)
