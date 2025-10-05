@@ -57,3 +57,4 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * [Step-by-Step Guide: Setting Up AWS EC2 Instance for Windows Server 2025| AWS EC2 Windows Server 2025](https://www.youtube.com/watch?v=4Vjhby3-gGI)
 * [How to Create a Virtual Machine on AWS EC2 | Launching Your First AWS EC2 Instance (Free Tier)(2025)](https://www.youtube.com/watch?v=NfnVflt1Jxw)
 * [UPDATED - Amazon/AWS EC2 Basics | Create an EC2 Instance | AWS Tutorials for Beginners](https://www.youtube.com/watch?v=YH_DVenJHII&t=139s)
+* [How to Create an AMI of EC2 Instance & Take EBS Snapshots in AWS](https://www.youtube.com/watch?v=1G6aJQ5woMA)
