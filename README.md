@@ -1,7 +1,7 @@
 # AWS-Deep-Dives
 AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, a massive digital toolbox that lets individuals and companies build, run, and scale applications without needing to own physical servers.
 
-# 🧰 Popular AWS services include:
+# 🧰 AWS services include:
 
 * **EC2(Elastic Compute Cloud)** : Virtual servers for running applications.
 * **S3(Simple Storage Service)** : Scalable storage for files and data.
@@ -9,6 +9,7 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * **RDS(Relational Database Service)** : Managed relational databases.
 * **SageMaker** : Build and train machine learning models.
 *  **Cognito** : Amazon Cognito is a powerful identity management service from AWS that helps you add user authentication, authorization, and user management to your web and mobile apps.
+*  **Elastic Block Store (ELS)** provides persistent block-level storage for EC2 instances.
 
 # Terms
 ## 5. Lesson 4 Identity and Access Management (IAM)
@@ -22,6 +23,9 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
   -  Port numbers
 
 * **Network Access Control (NAC)** is a security solution that **controls access to a network** by enforcing policies on devices as they attempt to connect. It ensures that only **authorized and compliant devices** (e.g., laptops, smartphones, IoT devices) can access network resources.
+
+## 7. Lesson 6 Elastic Compute Cloud (EC2)
+* An **Amazon Machine Image (AMI)** is a critical component in AWS that provides the information required to launch an EC2 instance—a virtual server in the cloud. It is an image that provides the software that is required to set up and boot an Amazon EC2 instance.
 
 # Content
 * [Hands_On_Development_in_AWS](./Hands_On_Development_in_AWS/context.md)
@@ -53,3 +57,8 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 * [Amazon/AWS VPC (Virtual Private Cloud) Basics | VPC Tutorial | AWS for Beginners](https://www.youtube.com/watch?v=7_NNlnH7sAg)
 * [Classless Inter-Domain Routing (CIDR)- Calculator](https://cidr.xyz/)
 * [AWS VPC & Subnets For Beginners](https://www.youtube.com/watch?v=TUTqYEZZUdc)
+## 7. Lesson 6 Elastic Compute Cloud (EC2)
+* [Step-by-Step Guide: Setting Up AWS EC2 Instance for Windows Server 2025| AWS EC2 Windows Server 2025](https://www.youtube.com/watch?v=4Vjhby3-gGI)
+* [How to Create a Virtual Machine on AWS EC2 | Launching Your First AWS EC2 Instance (Free Tier)(2025)](https://www.youtube.com/watch?v=NfnVflt1Jxw)
+* [UPDATED - Amazon/AWS EC2 Basics | Create an EC2 Instance | AWS Tutorials for Beginners](https://www.youtube.com/watch?v=YH_DVenJHII&t=139s)
+* [How to Create an AMI of EC2 Instance & Take EBS Snapshots in AWS](https://www.youtube.com/watch?v=1G6aJQ5woMA)
