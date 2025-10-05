@@ -11,6 +11,7 @@ AWS (Amazon Web Services) is Amazon’s cloud computing platform — basically, 
 *  **Cognito** : Amazon Cognito is a powerful identity management service from AWS that helps you add user authentication, authorization, and user management to your web and mobile apps.
 
 # Terms
+## 5. Lesson 4 Identity and Access Management (IAM)
 
 * An **AWS Region** is a **geographically isolated area** where Amazon Web Services (AWS) hosts its infrastructure to provide cloud services. Each Region consists of multiple **Availability Zones (AZs)**, which are distinct data centers engineered to be isolated from failures in other AZs.
   
