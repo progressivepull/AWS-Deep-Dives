@@ -172,7 +172,7 @@
 
 * [ 12.8_Using_SQS_best_practices ]( ./LESSON_12/12.8_Using_SQS_best_practices.md )
  
-# 13. Lesson 12_Simple_Notification_Service_(SNS)
+# 13. Lesson 12 Simple Notification Service (SNS)
  
 * [ 13.1 Learning objectives ]( ./LESSON_13/13.1_Learning_objectives.md )
  
@@ -200,7 +200,7 @@
 
 * [ 14.5_Using_SES_best_practices ]( ./LESSON_14/14.5_Using_SES_best_practices.md )
  
-# 15. Lesson 14 Lambda – Serverless_Compute
+# 15. Lesson 14 Lambda – Serverless Compute
  
 * [ 15.1 Module 5 Execution services introduction ]( ./LESSON_15/15.1_Module_5_Execution_services_introduction.md )
  
