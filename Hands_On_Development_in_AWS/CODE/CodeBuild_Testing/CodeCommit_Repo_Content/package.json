@@ -1,0 +1,23 @@
+{
+  "name": "codebuild_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --recursive tests --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git-codecommit.us-east-2.amazonaws.com/v1/repos/CodeBuild_Testing"
+  },
+  "author": "Nick Garner",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^11.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3",
+    "unit.js": "^2.1.1"
+  }
+}
